@@ -1,0 +1,15 @@
+C:\#Sunbeam\dotnet_lab\dotnet-Assignment\Solution2_Assignmnet2\Q7\obj\Debug\net6.0\Q7.GeneratedMSBuildEditorConfig.editorconfig
+C:\#Sunbeam\dotnet_lab\dotnet-Assignment\Solution2_Assignmnet2\Q7\obj\Debug\net6.0\Q7.AssemblyInfoInputs.cache
+C:\#Sunbeam\dotnet_lab\dotnet-Assignment\Solution2_Assignmnet2\Q7\obj\Debug\net6.0\Q7.AssemblyInfo.cs
+C:\#Sunbeam\dotnet_lab\dotnet-Assignment\Solution2_Assignmnet2\Q7\obj\Debug\net6.0\Q7.csproj.CoreCompileInputs.cache
+C:\#Sunbeam\dotnet_lab\dotnet-Assignment\Solution2_Assignmnet2\Q7\obj\Debug\net6.0\Q7.sourcelink.json
+C:\#Sunbeam\dotnet_lab\dotnet-Assignment\Solution2_Assignmnet2\Q7\bin\Debug\net6.0\Q7.exe
+C:\#Sunbeam\dotnet_lab\dotnet-Assignment\Solution2_Assignmnet2\Q7\bin\Debug\net6.0\Q7.deps.json
+C:\#Sunbeam\dotnet_lab\dotnet-Assignment\Solution2_Assignmnet2\Q7\bin\Debug\net6.0\Q7.runtimeconfig.json
+C:\#Sunbeam\dotnet_lab\dotnet-Assignment\Solution2_Assignmnet2\Q7\bin\Debug\net6.0\Q7.dll
+C:\#Sunbeam\dotnet_lab\dotnet-Assignment\Solution2_Assignmnet2\Q7\bin\Debug\net6.0\Q7.pdb
+C:\#Sunbeam\dotnet_lab\dotnet-Assignment\Solution2_Assignmnet2\Q7\obj\Debug\net6.0\Q7.dll
+C:\#Sunbeam\dotnet_lab\dotnet-Assignment\Solution2_Assignmnet2\Q7\obj\Debug\net6.0\refint\Q7.dll
+C:\#Sunbeam\dotnet_lab\dotnet-Assignment\Solution2_Assignmnet2\Q7\obj\Debug\net6.0\Q7.pdb
+C:\#Sunbeam\dotnet_lab\dotnet-Assignment\Solution2_Assignmnet2\Q7\obj\Debug\net6.0\Q7.genruntimeconfig.cache
+C:\#Sunbeam\dotnet_lab\dotnet-Assignment\Solution2_Assignmnet2\Q7\obj\Debug\net6.0\ref\Q7.dll
