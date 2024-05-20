@@ -1,0 +1,14 @@
+C:\#Sunbeam\dotnetlab\Solution1_Assignmnet1\Q2\bin\Debug\Q2.exe.config
+C:\#Sunbeam\dotnetlab\Solution1_Assignmnet1\Q2\bin\Debug\Q2.exe
+C:\#Sunbeam\dotnetlab\Solution1_Assignmnet1\Q2\bin\Debug\Q2.pdb
+C:\#Sunbeam\dotnetlab\Solution1_Assignmnet1\Q2\obj\Debug\Q2.csproj.AssemblyReference.cache
+C:\#Sunbeam\dotnetlab\Solution1_Assignmnet1\Q2\obj\Debug\Q2.csproj.CoreCompileInputs.cache
+C:\#Sunbeam\dotnetlab\Solution1_Assignmnet1\Q2\obj\Debug\Q2.exe
+C:\#Sunbeam\dotnetlab\Solution1_Assignmnet1\Q2\obj\Debug\Q2.pdb
+C:\#Sunbeam\dotnet_lab\dotnet-Assignment\Solution1_Assignmnet1\Q2\bin\Debug\Q2.exe.config
+C:\#Sunbeam\dotnet_lab\dotnet-Assignment\Solution1_Assignmnet1\Q2\bin\Debug\Q2.exe
+C:\#Sunbeam\dotnet_lab\dotnet-Assignment\Solution1_Assignmnet1\Q2\bin\Debug\Q2.pdb
+C:\#Sunbeam\dotnet_lab\dotnet-Assignment\Solution1_Assignmnet1\Q2\obj\Debug\Q2.csproj.AssemblyReference.cache
+C:\#Sunbeam\dotnet_lab\dotnet-Assignment\Solution1_Assignmnet1\Q2\obj\Debug\Q2.csproj.CoreCompileInputs.cache
+C:\#Sunbeam\dotnet_lab\dotnet-Assignment\Solution1_Assignmnet1\Q2\obj\Debug\Q2.exe
+C:\#Sunbeam\dotnet_lab\dotnet-Assignment\Solution1_Assignmnet1\Q2\obj\Debug\Q2.pdb
